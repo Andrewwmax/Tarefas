@@ -8,5 +8,5 @@
 	define('DB_PASSWORD', 'AndrewwMax');
 	define('DB_NAME', 'tarefas_bd');
 
-	define('SITEURL', 'http://localhost/Estagio/');
+	define('SITEURL', 'http://localhost/Tarefas/');
 ?>
